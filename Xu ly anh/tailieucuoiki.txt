@@ -1,0 +1,4 @@
+https://blog.vietnamlab.vn/nhan-dien-khuon-mat-voi-python-va-opencv/
+
+https://thorpham.github.io/blog/2018/04/11/regconite-plate-car/
+https://github.com/dotrungkien/plate-recognition
